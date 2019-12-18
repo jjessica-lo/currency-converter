@@ -1,7 +1,5 @@
 # currency-converter
 
-CURRENCY CONVERTER
-
 The project Currency Converter permits to convert currency online.
 
 The API is accessible at the URL: 
